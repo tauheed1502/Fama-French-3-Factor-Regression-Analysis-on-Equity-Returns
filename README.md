@@ -1,0 +1,1 @@
+# Fama-French-3-Factor-Regression-Analysis-on-Equity-Returns
